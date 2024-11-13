@@ -22,4 +22,4 @@ Shenyue Jia
 
 ## Guides
 
-- [Create a GitHub repository and add Google Colab notebooks](https://github.com/jiashenyue/geo242/blob/main/guides/create-github-repository-add-notebooks.ipynb)
+- [Create a GitHub repository and add Google Colab notebooks](https://github.com/annasekulaa/gis-project-portfolio-geo242/blob/main/Copy_of_week_10_assignment_template.ipynb)
